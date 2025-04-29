@@ -1,4 +1,7 @@
-![Header](./github-header-image.png)
+<p align="center">
+  <img src="./github-header-image.png" alt="Header" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Evans Nyamu</h1>
 <h3 align="center">Tech is in my DNA — I eat, sleep, and breathe code. Powered by coffee and clean commits, with 0s and 1s running through my veins, debugging is my cardio. I speak fluent API and was born to build, wired to innovate. I'm cloud-native, caffeine-fueled, and the terminal is my comfort zone. My love language? Version control</h3>
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/3d4d824f109c46f280047f2a94135c27/tumblr_nlptn4t5Ug1relaado1_400.gif"
