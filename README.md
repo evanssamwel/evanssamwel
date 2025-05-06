@@ -14,7 +14,7 @@
 
 👨‍💻 All of my projects are available on [Github](Github)
 
-💬 Ask me about **Tech ??**
+💬 Ask me about **Tech ??***
 
 📫 How to reach me **snyamuevans@gmail.com**
 
