@@ -31,6 +31,6 @@
 
 ![evanssamwel's Stats](https://github-readme-stats.vercel.app/api?username=evanssamwel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![evanssamwel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=evanssamwel&theme=vue-dark&hide_border=true) 
+![evanssamwel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=evanssamwel&theme=highcontrast&hide_border=true)
 
 ![evanssamwel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evanssamwel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
