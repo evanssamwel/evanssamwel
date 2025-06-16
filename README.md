@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **Kubernetes|ML|Data Science|**
 
-🤝 Certified **Yes**
+🤝 Certified **Yes***
 
 👨‍💻 All of my projects are available on [Github](Github)
 
