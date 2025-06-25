@@ -12,7 +12,7 @@
 
 🤝 Certified **Yes***
 
-👨‍💻 All of my projects are available on [Github](Github)
+👨‍💻 All of my projects are available on [Github]
 
 💬 Ask me about **Tech ??***
 
