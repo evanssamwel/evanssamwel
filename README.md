@@ -26,7 +26,7 @@ across cloud engineering, cybersecurity, networking, and software development.
 <ul>
   <li>🔭 Working on <b>Machine Learning & Ethical Hacking</b></li>
   <li>🌱 Learning <b>Kubernetes, AI/ML, Data Science</b></li>
-  <li>🎓 BSc Computer Science — Kenyatta University</li>
+  <li>🎓 BSc Computer Science </li>
   <li>🛡️ Certified in AWS, Cisco, IBM, Fortinet, ISC2 & Microsoft</li>
   <li>💡 Passionate about cybersecurity awareness in Kenya</li>
 </ul>
